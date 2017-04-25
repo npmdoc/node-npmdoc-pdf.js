@@ -1,4 +1,7 @@
-# api documentation for  [pdf.js (v0.1.0)](http://devongovett.github.com/pdfkit/)  [![npm package](https://img.shields.io/npm/v/npmdoc-pdf.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pdf.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pdf.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pdf.js)
+# npmdoc-pdf.js
+
+#### basic api documentation for  [pdf.js (v0.1.0)](http://devongovett.github.com/pdfkit/)  [![npm package](https://img.shields.io/npm/v/npmdoc-pdf.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pdf.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pdf.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pdf.js)
+
 #### A PDF generation library for Node.js
 
 [![NPM](https://nodei.co/npm/pdf.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pdf.js)
@@ -58,7 +61,8 @@
         "type": "git",
         "url": "git://github.com/stanislavfeldman/pdf.js.git"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
